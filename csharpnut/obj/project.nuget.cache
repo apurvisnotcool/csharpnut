@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mv3Jbz2hbYQ0grfbBb2p5RmkOabLSk6m+izrhe6aIh14UOLo5swAlVMc2pz6Ld2dz0sov8m0NPM1fGyn+sfDmA==",
+  "success": true,
+  "projectFilePath": "/home/gamma/csharpnut/csharpnut.csproj",
+  "expectedPackageFiles": [
+    "/home/gamma/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/gamma/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/gamma/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
